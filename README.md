@@ -1,2 +1,2 @@
-# Klipper-CR-10s-with-Creality-ABL
-Klipper configuration of creality cr-10s with crealityABL
+# Klipper-CR-10s
+Klipper configuration of creality cr-10s with crealityABL and BLTouch
